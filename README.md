@@ -140,7 +140,7 @@ A documentação do projeto foi feita em formato baseado na **ISO/IEC/IEEE 29148
 
 📄 Clique abaixo para abrir a documentação:
 
-[➡️ Abrir Documentação do Projeto](documentacao/EcoTrack_Documentacao_Final_MVC_com_Figma.md)
+[➡️ Abrir Documentação do Projeto](documentacao/EcoTrack_Documentacao.md)
 
 > Obs: deixe o arquivo da documentação dentro da pasta `documentacao/` no repositório para esse link funcionar no GitHub.
 
